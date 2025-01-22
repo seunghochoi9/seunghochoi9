@@ -4,8 +4,11 @@
 - 6년 회사생활을 통해 얻은 인사이트 및 커뮤니케이션 능력을 겸비하고 있습니다.
 - 배움에 끝이 없다는 마인드로 항상 배우는 자세로 임하고 있습니다.
 
-### Skill
-Language : Java
+### Skills
+Back-end : Java, Spring Boot, JPA, QueryDsl, Swagger
+Database: MySQL
+CI/CD: Docker
+ETC: IntelliJ / VSC / GitHub / Slack / notion / Confluence / Jira / Postman
 
 ### Statistics
 <div>
