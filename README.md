@@ -6,8 +6,11 @@
 
 ### Skills
 Back-end : Java, Spring Boot, JPA, QueryDsl, Swagger
+
 Database: MySQL
+
 CI/CD: Docker
+
 ETC: IntelliJ / VSC / GitHub / Slack / notion / Confluence / Jira / Postman
 
 ### Statistics
