@@ -8,7 +8,7 @@ Database: MySQL
 
 CI/CD: Docker
 
-ETC: IntelliJ / VSC / GitHub / Slack / notion / Confluence / Jira / Postman
+ETC: IntelliJ / VSC / GitHub / Slack / Notion / Confluence / Jira
 
 ### Statistics
 <div>
